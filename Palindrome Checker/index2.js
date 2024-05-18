@@ -11,3 +11,5 @@ function check(){
     
     alert(value == reverse ? "PALINDROME" : "Not Palindrome, try again")
 }
+
+input.value = ""
